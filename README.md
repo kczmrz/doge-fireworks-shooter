@@ -8,7 +8,7 @@ Project was created in [Nextron](https://github.com/saltyshiomix/nextron) (Next 
 ![dogescreen](https://user-images.githubusercontent.com/96081508/210135664-1f85b94c-7c74-4697-94bd-6b101c759c59.png)
 
 
-### Installation tutorial
+## Installation tutorial
 
 ## 1) If you programmer and you wanna edit my project:
 1) Git clone + project link
@@ -16,6 +16,6 @@ Project was created in [Nextron](https://github.com/saltyshiomix/nextron) (Next 
 3) Have a fun!
 
 
-## 2) If you a "normal" dude and want
+## 2) If you a "normal" dude and you want to have fun
 
 [Doge-fireworks-shooter-installer](https://drive.google.com/file/d/1DBgt2UcX53YGOdsbcoe4bziXPEYM0DRp/view?usp=sharing)
