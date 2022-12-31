@@ -1,0 +1,43 @@
+{
+  "private": true,
+  "name": "doge-fireworks-shooter",
+  "description": "new-year-project",
+  "version": "1.0.0",
+  "author": "kczmrz",
+  "main": "app/background.js",
+  "icon": "../favicon.ico",
+
+
+  "build": {
+    "productName": "Doge Fireworks Shooter",
+        "win": {
+            "target": "NSIS",
+            "icon": "favicon.ico"
+          }
+  },
+  "scripts": {
+    "start": "nextron",
+    "build": "nextron build",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "dependencies": {
+    "@fireworks-js/react": "^2.10.0",
+    "@material-tailwind/react": "^1.2.4",
+    "electron-serve": "^1.1.0",
+    "electron-store": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "@types/react": "^18.0.8",
+    "autoprefixer": "^10.4.7",
+    "electron": "^20.1.0",
+    "electron-builder": "^23.3.3",
+    "next": "^12.2.5",
+    "nextron": "^8.2.0",
+    "postcss": "^8.4.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.1.8",
+    "typescript": "^4.8.2"
+  }
+}
